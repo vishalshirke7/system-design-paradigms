@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/13200152/why-is-it-said-that-http-is-a-stateless-protocol
+
